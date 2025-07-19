@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polaritynord&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=polaritynord&theme=gotham)](https://git.io/streak-stats)
+
 ### 👋 Welcome To My Profile!
 
 I go by the nickname **polaritynord**, but you can just call me **nord**. I'm a 17-year-old prospective student from Türkiye. I enjoy programming my own video games in my spare time, and most of the time, I share them here as well.
