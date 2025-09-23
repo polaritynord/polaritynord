@@ -9,8 +9,3 @@ I go by the nickname **polaritynord**, but you can just call me **nord**. I'm a 
   - Godot Game Engine (GDScript, currently learning C#)
 - 📖 I'm currently learning C#.
 - 👤 My pronouns are he/him.
-
-### My Other Links:
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://polaritynord.itch.io/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/polaritynord.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/746416274644664390/)
