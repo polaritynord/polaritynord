@@ -6,6 +6,6 @@ I go by the nickname **polaritynord**, but you can just call me **nord**. I'm a 
 - 🖊️ I have experience with:
   - Python 
   - Lua/Love2D (for making videogames)
-  - Godot Game Engine (GDScript, currently learning C#)
-- 📖 I'm currently learning C#.
+  - Godot Game Engine (GDScript and a little bit of C#)
+- 📖 I'm currently learning Java.
 - 👤 My pronouns are he/him.
